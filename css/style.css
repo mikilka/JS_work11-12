@@ -40,3 +40,24 @@
 .carousel-arrow-right {
     margin-left: 25px;
 }
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 30px;
+    clear: both;
+}
+
+.wrapper h1, .img, .info, .wrapper h3 {
+    text-align: center;
+    display: block;
+}
+
+.reasons {
+    width: 300px;
+    margin: 0 auto;
+}
+
+hr {
+    width: 400px;
+}
